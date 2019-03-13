@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: proy-client-service-intercorp
+  freemarker:
+    enabled: false
+  thymeleaf:
+    enabled: true
+    cache: true
+    prefix: classpath:/templates/
+    suffix: .html
+server:
+  port: 80
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+info:
+  project:
+    name: proy-client-service-intercorp
+    description: Proyect for Example SuperMercados Peruanos S.A.
+    version: 1.0.0
+    
