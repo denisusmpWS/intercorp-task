@@ -27,3 +27,16 @@ API proy-client-service-intercorp, tiene como alcance lo siguiente:
 - Con POSTMAN o CLIENT-REST: 
 - Metodo 1 y 2, se podran probar las 2 primeras funcionalidades.
 - Para el metodo 3 se recomienda invocarlo directamente desde un browser directamente. (Chorme, Internet, etc)
+
+
+### Information Use API:
+
+URL Base:	http://18.233.159.234
+
+|Type Method	| Resource	  
+-------------------------------------------------
+|POST         | /creacliente        
+|GET	        | /kpideclientes
+|GET          |	/listclientes
+
+GitHub	https://github.com/denisusmpWS/intercorp-task.git
