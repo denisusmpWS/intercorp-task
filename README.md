@@ -1,6 +1,9 @@
 # intercorp-task
 Project Task from Intercorp Retail API Spring Boot and Deploy in AWS + Docker
 
+Resources in use AWS:
+VPC, Subnets, Security Group, IGW, Docker, Docker-Hub, EC2, S3, etc.
+
 
 #Detalle:
 API proy-client-service-intercorp, tiene como alcance lo siguiente:
@@ -16,6 +19,7 @@ API proy-client-service-intercorp, tiene como alcance lo siguiente:
 - Lombok
 - Thymeleaf
 - CircuitBreaker
+- Dockerfile
 
 
 #Consideraciones para Pruebas:
