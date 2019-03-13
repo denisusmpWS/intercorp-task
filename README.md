@@ -32,6 +32,7 @@ API proy-client-service-intercorp, tiene como alcance lo siguiente:
 ### Information Use API:
 
 URL Base:	http://18.233.159.234
+URL Swagger: http://18.233.159.234/swagger-ui.html
 
 |Type Method	| Resource	  
 -------------------------------------------------
